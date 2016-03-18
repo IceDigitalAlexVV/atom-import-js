@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trotzig/import-js.git"
+    "url": "git+https://github.com/galooshi/atom-import-js.git"
   },
   "keywords": [
     "atom",
@@ -19,9 +19,9 @@
   "author": "Joe Lencioni",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trotzig/import-js/issues"
+    "url": "https://github.com/galooshi/atom-import-js/issues"
   },
-  "homepage": "https://github.com/trotzig/import-js#readme",
+  "homepage": "https://github.com/galooshi/atom-import-js#readme",
   "devDependencies": {
     "eslint": "^2.4.0",
     "eslint-config-airbnb": "^6.1.0"
