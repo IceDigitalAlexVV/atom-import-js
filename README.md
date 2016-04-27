@@ -6,25 +6,13 @@ This is the Atom plugin for Import-JS.
 
 1. Install the plugin via Atom's package manager.
 
-2. Install the import_js gem
+2. [Configure import-js for your
+   project](https://github.com/galooshi/import-js#configuration)
 
-   ```sh
-   gem install import_js
-   ```
+3. Open the root of your project as a folder (File -> Add Project Folder…)
 
-3. Install eslint
-
-   ```sh
-   npm install -g eslint
-   ```
-
-4. [Configure import-js for your
-   project](https://github.com/trotzig/import-js#configuration)
-
-5. Open the root of your project as a folder (File -> Add Project Folder…)
-
-6. Import a file!
+4. Import a file!
 
    Whenever you have undefined variables, open the Command Palette
-   (`CTRL+SHIFT+P`/`CMD+SHIFT+P`) and select "Import Js: Fix all imports", or
+   (`CTRL+SHIFT+P`/`CMD+SHIFT+P`) and select "Import JS: Fix all imports", or
    "ImportJS: Import word under cursor".
