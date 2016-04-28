@@ -29,7 +29,6 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
-    "consistent-env": "^1.1.2",
     "import-js": "^0.7.0-rc3",
     "loophole": "^1.1.0"
   }
