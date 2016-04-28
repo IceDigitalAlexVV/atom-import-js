@@ -1,5 +1,5 @@
 module.exports = {
-  extends: 'airbnb/base',
+  extends: 'airbnb-base',
 
   env: {
     'es6': true,
@@ -12,5 +12,6 @@ module.exports = {
 
   rules: {
     'prefer-rest-params': 0, // unavailable
+    'strict': 0,
   },
 };

@@ -23,8 +23,9 @@
   },
   "homepage": "https://github.com/galooshi/atom-import-js#readme",
   "devDependencies": {
-    "eslint": "^2.4.0",
-    "eslint-config-airbnb": "^6.1.0"
+    "eslint": "^2.8.0",
+    "eslint-config-airbnb-base": "^1.0.0",
+    "eslint-plugin-import": "^1.6.0"
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
