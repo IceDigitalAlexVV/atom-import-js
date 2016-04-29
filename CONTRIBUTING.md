@@ -1,4 +1,4 @@
-To make it simpler to test a local copy of import-js in Atom:
+To make it simpler to test a local copy of ImportJS in Atom:
 
 ```sh
 cd ~/atom-import-js
