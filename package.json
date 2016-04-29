@@ -1,7 +1,7 @@
 {
   "name": "atom-import-js",
   "version": "0.2.0",
-  "description": "Run Import-JS in Atom. Requires the import_js gem.",
+  "description": "Simplify importing JavaScript modules.",
   "main": "./lib/import-js",
   "scripts": {
     "lint": "eslint .",
