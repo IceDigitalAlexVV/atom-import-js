@@ -1,6 +1,6 @@
-# Import-JS Atom plugin
+# ImportJS Atom plugin
 
-This is the Atom plugin for Import-JS.
+This is the Atom plugin for ImportJS.
 
 ## Installing
 
