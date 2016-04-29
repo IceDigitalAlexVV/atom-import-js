@@ -1,6 +1,6 @@
 {
   "name": "atom-import-js",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Run Import-JS in Atom. Requires the import_js gem.",
   "main": "./lib/import-js",
   "scripts": {
