@@ -1,10 +1,10 @@
-# ImportJS Atom plugin
+# ImportJS Atom package
 
-This is the Atom plugin for ImportJS.
+This is the Atom package for ImportJS.
 
 ## Installing
 
-1. Install the atom-import-js via Atom's package manager.
+1. Install the atom-import-js package via Atom's package manager.
 
 2. [Configure import-js for your
    project](https://github.com/galooshi/import-js#configuration)
@@ -13,9 +13,9 @@ This is the Atom plugin for ImportJS.
 
 4. Import a file!
 
-## Default keymaps
+## Default keybindings
 
-By default, atom-import-js attempts to set up the following keymaps:
+By default, atom-import-js attempts to set up the following keybindings:
 
 Mapping       | Action      | Description
 --------------|-------------|---------------------------------------------------------------------
