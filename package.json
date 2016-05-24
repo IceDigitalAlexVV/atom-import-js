@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
-    "import-js": "^0.7.2",
+    "import-js": "^0.7.4",
     "loophole": "^1.1.0"
   }
 }
