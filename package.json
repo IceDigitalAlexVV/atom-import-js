@@ -1,6 +1,6 @@
 {
   "name": "atom-import-js",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Simplify importing JavaScript modules.",
   "main": "./lib/import-js",
   "scripts": {
