@@ -1,6 +1,0 @@
-{
-  "declarationKeyword": "const",
-  "aliases": {
-    "WatchmanFileCache": "import-js/build/WatchmanFileCache"
-  }
-}
