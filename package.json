@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
-    "import-js": "^2.1.0-beta.6"
+    "import-js": "^2.1.0"
   }
 }
