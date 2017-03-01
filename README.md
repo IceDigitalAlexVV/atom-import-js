@@ -7,7 +7,7 @@ This is the Atom package for ImportJS.
 1. Install the atom-import-js package via Atom's package manager.
 
 2. [Configure import-js for your
-   project](https://github.com/galooshi/import-js#configuration)
+   project](https://github.com/galooshi/import-js#configuration) (there's no need to globally install import-js for the atom plugin)
 
 3. Open the root of your project as a folder (File -> Add Project Folder…)
 
