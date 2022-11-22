@@ -1,6 +1,6 @@
 {
   "name": "atom-import-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplify importing JavaScript modules.",
   "main": "./lib/import-js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/galooshi/atom-import-js.git"
+    "url": "https://github.com/IceDigitalAlexVV/atom-import-js.git"
   },
   "keywords": [
     "atom",
@@ -21,14 +21,14 @@
   "bugs": {
     "url": "https://github.com/galooshi/atom-import-js/issues"
   },
-  "homepage": "https://github.com/galooshi/atom-import-js#readme",
+  "homepage": "https://github.com/IceDigitalAlexVV/atom-import-js.git",
   "devDependencies": {
-    "eslint": "^2.8.0",
+    "eslint": "^8.28.0",
     "eslint-config-airbnb-base": "^1.0.0",
-    "eslint-plugin-import": "^1.6.0"
+    "eslint-plugin-import": "^2.26.0"
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
-    "import-js": "^4.0.1"
+    "import-js": "^5.0.0"
   }
 }
