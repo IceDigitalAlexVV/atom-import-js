@@ -1,6 +1,6 @@
 {
   "name": "atom-import-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simplify importing JavaScript modules.",
   "main": "./lib/import-js",
   "scripts": {
@@ -25,7 +25,7 @@
   "devDependencies": {
     "eslint": "^9.27.0",
     "eslint-config-airbnb-base": "1.0.0",
-    "eslint-plugin-import": "1.6.0"
+    "eslint-plugin-import": "^2.31.0"
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
