@@ -1,6 +1,6 @@
 {
   "name": "atom-import-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simplify importing JavaScript modules.",
   "main": "./lib/import-js",
   "scripts": {
@@ -23,12 +23,12 @@
   },
   "homepage": "https://github.com/IceDigitalAlexVV/atom-import-js.git",
   "devDependencies": {
-    "eslint": "^8.28.0",
-    "eslint-config-airbnb-base": "^1.0.0",
-    "eslint-plugin-import": "^2.26.0"
+    "eslint": "^9.27.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.31.0"
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
-    "import-js": "^5.0.0"
+    "import-js": "^6.0.0"
   }
 }
